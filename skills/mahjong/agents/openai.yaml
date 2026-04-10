@@ -1,0 +1,4 @@
+interface:
+  display_name: "Taizhou Mahjong Coach"
+  short_description: "Review hands, suggest discards, and run Taizhou CLI mahjong"
+  default_prompt: "Use $mahjong to review this hand, explain the waits, and suggest the best discard."
