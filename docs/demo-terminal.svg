@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-label="Taizhou Mahjong CLI demo screenshot">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="760" rx="24" fill="url(#bg)"/>
+  <rect x="24" y="24" width="1152" height="712" rx="16" fill="#0b1020" stroke="#1f2937"/>
+  <circle cx="56" cy="56" r="8" fill="#ef4444"/>
+  <circle cx="82" cy="56" r="8" fill="#f59e0b"/>
+  <circle cx="108" cy="56" r="8" fill="#22c55e"/>
+  <text x="140" y="62" fill="#93c5fd" font-family="Menlo, Monaco, Consolas, monospace" font-size="24">Taizhou Mahjong CLI Lobby</text>
+  <g font-family="Menlo, Monaco, Consolas, monospace" font-size="22">
+    <text x="48" y="110" fill="#e5e7eb">Room 439563 | Lang ZH | Round 1/4 | Dealer You | Wall 83 | Turn 0/120</text>
+    <text x="48" y="160" fill="#d1d5db">North: West Wind · Abyss Throne · 100 pt · 13 tiles · No melds</text>
+    <text x="48" y="196" fill="#9ca3af">River -</text>
+    <text x="48" y="246" fill="#d1d5db">Left: South Wind · Eclipse Zero · 100 pt · 13 tiles · No melds</text>
+    <text x="48" y="282" fill="#9ca3af">River -</text>
+    <text x="48" y="332" fill="#d1d5db">Right: North Wind · Blackflame Dragon King · 100 pt · 13 tiles · No melds</text>
+    <text x="48" y="368" fill="#9ca3af">River -</text>
+    <text x="48" y="430" fill="#f8fafc">System Feed</text>
+    <text x="48" y="466" fill="#67e8f9">- Rules: white wildcard / no flowers / multi-round session / Taizhou-style scoring</text>
+    <text x="48" y="502" fill="#67e8f9">- Round 1 begins. Dealer: You.</text>
+    <text x="48" y="552" fill="#f8fafc">Visible Tiles</text>
+    <text x="48" y="588" fill="#9ca3af">- none yet</text>
+    <text x="48" y="646" fill="#f8fafc">Your seat: Dealer · You · 100 pt · 14 tiles · No melds &lt; Active</text>
+    <text x="48" y="688" fill="#86efac">[3m] [4m] [5m] [1p] [1s] [3s] [4s] [7s] [9s] [E] [S] [W] [W] [F]</text>
+  </g>
+</svg>
